@@ -1,4 +1,4 @@
-## Hi there 👋
+HELLO, I'M NAVYA TATAKUNTLA
 
 Aspiring Computer Science Engineer with a strong foundation in Python, C, C++, Java, web development, databases, and cloud technologies. Passionate about building practical software solutions and solving real-world problems through technology. Experienced in developing full-stack web applications and academic projects, with a strong willingness to learn, adapt, and explore new technologies. Seeking opportunities to enhance my technical skills, contribute to meaningful projects, and grow as a software developer.
 
